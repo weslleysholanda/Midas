@@ -1,4 +1,4 @@
-# ✅ Proposta de Resolução — Processo Seletivo [Nome da empresa]
+# ✅ Proposta de Resolução — Processo Seletivo Midas
 
 Este repositório contém a resolução de dois exercícios propostos durante o processo seletivo.
 
